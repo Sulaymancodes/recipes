@@ -43,13 +43,13 @@ a{
     text-decoration: none;
     color: black;
 }
+a:hover{
+    color: #C5283D;
+}
 .recipes{
     width: 10em;
     margin-right: 1em; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+   
 }
-.recipe-img{
-    height: 50%;
-}
-.recipe-text{
-    height: 50%;
-}
+
