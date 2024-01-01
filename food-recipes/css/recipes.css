@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto;
+    line-height: 1.5em;
+}
+.container{
+    max-width: 600px;
+    width: 70%;
+    margin: 1em auto;
+    background-color: #E3D87E;
+    border: 1px solid black;
+    padding: 1em 3em;
+}
+.heading-text{
+    font-size: 1.5em;
+    text-align: center;
+}
+hr{
+    border: 1px solid rgb(0, 0, 0);
+    margin: 1em 0;
+}
+ul{
+    padding: 0 1.8em;
+}
