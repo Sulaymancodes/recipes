@@ -4,11 +4,11 @@
     padding: 0;
 }
 body{
-    font-family: Roboto;
+    font-family: 'Sevillana', sans-serif;
     line-height: 1.5em;
 }
 .container{
-    max-width: 600px;
+    max-width: 700px;
     width: 70%;
     margin: 1em auto;
     background-color: #E3D87E;
